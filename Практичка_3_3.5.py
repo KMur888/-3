@@ -1,0 +1,12 @@
+#5+2*3-4/2=?
+resultat = 5 + 2 * 3 - 4 / 2
+print(f"1) 5 + 2 * 3 - 4 / 2 = {resultat}")
+#(3+5)*(2+4)/2=?
+resultat2 = (3 + 5) * (2 + 4) / 2
+print(f"2) (3+5)*(2+4)/2 = {resultat2}")
+#-3+6/2*4=?
+resultat3 = -3 + 6 / 2 * 4
+print(f"3) -3 + 6 / 2 * 4 = {resultat3}")
+#5+4*5**2+7=?
+resultat4 = 5 + 4 *5 ** 2 + 7
+print(f"4) 5 + 4 * 5 ** 2 + 7 = {resultat4}")
